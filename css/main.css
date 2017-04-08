@@ -569,6 +569,10 @@ a:hover, a:focus {
   content: url(../images/ico/apple.png);
   vertical-align: sub;
 }
+.icon-email-text:before {
+  content: url(../images/ico/email.png);
+  vertical-align: sub;
+}
 .icon-desktop-text:before {
   content: url(../images/ico/desktop.png);
   vertical-align: sub;
